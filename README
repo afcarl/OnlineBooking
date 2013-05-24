@@ -1,0 +1,3 @@
+This is our OnlineBooking project.
+To run the program, put this directory in your web server root documents and visit localhost/onlineBooking in your web server.
+To get necessary supports, you need to download thinkphp and bootstrap (from our evernote account):)
