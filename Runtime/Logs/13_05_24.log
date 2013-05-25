@@ -984,222 +984,527 @@ INFO: Run ReadHtmlCache Behavior [ RunTime:0.000366s ]
 INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
 NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
 
-[ 2013-05-24T15:47:19+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000270s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000217s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000268s ]
-INFO: [ view_parse ] --START--
-NOTIC: [8] Undefined variable: data /Library/WebServer/Documents/OnlineBooking/Runtime/Cache/2619c7b865c8e3ff3e260e3ad3f71ea2.php 第 6 行.
-INFO: Run ParseTemplate Behavior [ RunTime:0.003861s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.003896s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000205s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000208s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000128s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000208s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000855s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000295s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000327s ]
-
-[ 2013-05-24T15:47:21+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000241s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000232s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000318s ]
-INFO: [ view_parse ] --START--
-NOTIC: [8] Undefined variable: data /Library/WebServer/Documents/OnlineBooking/Runtime/Cache/2619c7b865c8e3ff3e260e3ad3f71ea2.php 第 6 行.
-INFO: Run ParseTemplate Behavior [ RunTime:0.004394s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.004444s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000179s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000179s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000122s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000212s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000782s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000283s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000313s ]
-
-[ 2013-05-24T15:47:22+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000262s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000198s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000249s ]
-INFO: [ view_parse ] --START--
-NOTIC: [8] Undefined variable: data /Library/WebServer/Documents/OnlineBooking/Runtime/Cache/2619c7b865c8e3ff3e260e3ad3f71ea2.php 第 6 行.
-INFO: Run ParseTemplate Behavior [ RunTime:0.003978s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.004022s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000195s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000181s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000131s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000204s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000804s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000374s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000406s ]
-
-[ 2013-05-24T15:48:42+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000224s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000123s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000159s ]
-INFO: [ view_parse ] --START--
-INFO: Run ParseTemplate Behavior [ RunTime:0.003025s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.003083s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000310s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000179s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000133s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000224s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000964s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000275s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000311s ]
-
-[ 2013-05-24T15:49:25+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000422s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000225s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000300s ]
-INFO: [ view_parse ] --START--
-INFO: Run ParseTemplate Behavior [ RunTime:0.003901s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.003995s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000167s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000167s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000108s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000206s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000761s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000318s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000355s ]
-
-[ 2013-05-24T15:49:26+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000407s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000202s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000286s ]
-INFO: [ view_parse ] --START--
-INFO: Run ParseTemplate Behavior [ RunTime:0.003902s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.003988s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000212s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000154s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000100s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000224s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000827s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000299s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000340s ]
-
-[ 2013-05-24T15:50:15+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000272s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000146s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000189s ]
-INFO: [ view_parse ] --START--
-INFO: Run ParseTemplate Behavior [ RunTime:0.003610s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.003664s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000199s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000170s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000105s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000209s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000278s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000314s ]
-
-[ 2013-05-24T15:51:10+08:00 ] 0.0.0.0 /OnlineBooking/
-INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000264s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000127s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000164s ]
-INFO: [ view_parse ] --START--
-INFO: Run ParseTemplate Behavior [ RunTime:0.002830s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.002865s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000140s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000148s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000092s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000187s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000671s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000268s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000302s ]
-
-[ 2013-05-24T15:52:08+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/searchhotel
+[ 2013-05-24T15:31:51+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
 INFO: [ route_check ] --START--
-INFO: Run CheckRoute Behavior [ RunTime:0.000392s ]
-INFO: [ route_check ] --END-- [ RunTime:0.000447s ]
+INFO: Run CheckRoute Behavior [ RunTime:0.000558s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000629s ]
 INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000230s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
-INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000171s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000217s ]
-INFO: [ view_parse ] --START--
-INFO: Run ParseTemplate Behavior [ RunTime:0.003407s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.003462s ]
-INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000177s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000166s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000112s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000233s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000794s ]
-INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000384s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000425s ]
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
 
-[ 2013-05-24T15:52:13+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/showroom
+[ 2013-05-24T15:58:48+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
 INFO: [ route_check ] --START--
-INFO: Run CheckRoute Behavior [ RunTime:0.000384s ]
-INFO: [ route_check ] --END-- [ RunTime:0.000446s ]
+INFO: Run CheckRoute Behavior [ RunTime:0.040469s ]
+INFO: [ route_check ] --END-- [ RunTime:0.041456s ]
 INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000228s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
-NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) /Library/WebServer/Documents/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
-ERR: Access denied for user 'root'@'localhost' (using password: YES)
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001995s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
 
-[ 2013-05-24T15:52:33+08:00 ] 0.0.0.0 /onlineBooking/index.php/User
+[ 2013-05-24T15:59:37+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
 INFO: [ route_check ] --START--
-INFO: Run CheckRoute Behavior [ RunTime:0.000375s ]
-INFO: [ route_check ] --END-- [ RunTime:0.000426s ]
+INFO: Run CheckRoute Behavior [ RunTime:0.036131s ]
+INFO: [ route_check ] --END-- [ RunTime:0.036233s ]
 INFO: [ app_begin ] --START--
-INFO: Run ReadHtmlCache Behavior [ RunTime:0.000228s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select password from se_user where name = 'yunpeng' [ RunTime:0.000722s ]
+
+[ 2013-05-24T16:00:18+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000592s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000345s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+
+[ 2013-05-24T16:00:31+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.005194s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006006s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+
+[ 2013-05-24T16:01:23+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000565s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000142s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 27 行.
+
+[ 2013-05-24T16:04:26+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000584s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:07:00+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000837s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.004984s ]
+NOTIC: [8] Undefined offset: 1 /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:07:02+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000586s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000124s ]
+NOTIC: [8] Undefined offset: 1 /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:07:06+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000534s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000129s ]
+NOTIC: [8] Undefined offset: 1 /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:12:11+08:00 ] 0.0.0.0 /~miro/se/index.php/User/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000666s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+
+[ 2013-05-24T16:12:35+08:00 ] 0.0.0.0 /~miro/se/index.php/User/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000542s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
 INFO: [ view_template ] --START--
-INFO: Run LocationTemplate Behavior [ RunTime:0.000136s ]
-INFO: [ view_template ] --END-- [ RunTime:0.000171s ]
+INFO: Run LocationTemplate Behavior [ RunTime:0.021845s ]
+INFO: [ view_template ] --END-- [ RunTime:0.021937s ]
 INFO: [ view_parse ] --START--
-INFO: Run ParseTemplate Behavior [ RunTime:0.003333s ]
-INFO: [ view_parse ] --END-- [ RunTime:0.003376s ]
+INFO: Run ParseTemplate Behavior [ RunTime:0.035378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035517s ]
 INFO: [ view_filter ] --START--
-INFO: Run ContentReplace Behavior [ RunTime:0.000185s ]
-INFO: Run TokenBuild Behavior [ RunTime:0.000157s ]
-INFO: Run WriteHtmlCache Behavior [ RunTime:0.000100s ]
-INFO: Run ShowRuntime Behavior [ RunTime:0.000255s ]
-INFO: [ view_filter ] --END-- [ RunTime:0.000794s ]
+INFO: Run ContentReplace Behavior [ RunTime:0.000659s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000466s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000388s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002414s ]
 INFO: [ view_end ] --START--
-INFO: Run ShowPageTrace Behavior [ RunTime:0.000334s ]
-INFO: [ view_end ] --END-- [ RunTime:0.000371s ]
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000825s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000888s ]
+
+[ 2013-05-24T16:12:40+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000681s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000143s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:22:08+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000605s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `se_user` [ RunTime:0.002027s ]
+SQL: SELECT * FROM `se_user` WHERE ( name = yunpeng )  [ RunTime:0.033111s ]
+ERR: 1054:Unknown column 'yunpeng' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `se_user` WHERE ( name = yunpeng ) 
+
+[ 2013-05-24T16:23:03+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000647s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `se_user` [ RunTime:0.002265s ]
+SQL: SELECT * FROM `se_user` WHERE ( name = "yunpeng )  [ RunTime:0.000146s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"yunpeng )' at line 1
+ [ SQL语句 ] : SELECT * FROM `se_user` WHERE ( name = "yunpeng ) 
+
+[ 2013-05-24T16:23:07+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000602s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `se_user` [ RunTime:0.002205s ]
+SQL: SELECT * FROM `se_user` WHERE ( name = "yunpeng )  [ RunTime:0.000164s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"yunpeng )' at line 1
+ [ SQL语句 ] : SELECT * FROM `se_user` WHERE ( name = "yunpeng ) 
+
+[ 2013-05-24T16:23:18+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000546s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: SHOW COLUMNS FROM `se_user` [ RunTime:0.048952s ]
+SQL: SELECT * FROM `se_user` WHERE ( name = "yunpeng )  [ RunTime:0.000135s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"yunpeng )' at line 1
+ [ SQL语句 ] : SELECT * FROM `se_user` WHERE ( name = "yunpeng ) 
+
+[ 2013-05-24T16:43:37+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000654s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000122s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:43:40+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000606s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000127s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:44:19+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_user where name = 'yunpeng' [ RunTime:0.000131s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:44:34+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select password from se_user where name = 'yunpeng' [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: password /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:46:47+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000539s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_hotel where hotel_name = 'qizhen' [ RunTime:0.000295s ]
+NOTIC: [8] Undefined index: hotel_name /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+
+[ 2013-05-24T16:47:24+08:00 ] 0.0.0.0 /~miro/se/index.php/Goods/searchhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000257s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000324s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.038863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038937s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000222s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000222s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000140s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001007s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000389s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2013-05-24T16:47:28+08:00 ] 0.0.0.0 /~miro/se/index.php/Goods/showroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000547s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%' [ RunTime:0.000217s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000391s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000463s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.025314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025401s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000270s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000230s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000140s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001101s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000450s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2013-05-24T16:49:22+08:00 ] 0.0.0.0 /~miro/se/index.php/User/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000659s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000230s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000292s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.026947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027124s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000270s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000234s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000143s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001115s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000402s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2013-05-24T16:49:24+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.010968s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011061s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+NOTIC: [8] Undefined variable: hotel_info /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%%' [ RunTime:0.000825s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T16:49:33+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002130s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002288s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+NOTIC: [8] Undefined variable: hotel_info /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%%' [ RunTime:0.000143s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T16:49:57+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000548s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+NOTIC: [8] Undefined variable: hotel_info /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%%' [ RunTime:0.000147s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T16:50:00+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000595s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+NOTIC: [8] Undefined variable: hotel_info /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%%' [ RunTime:0.000141s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T16:51:27+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000559s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+NOTIC: [8] Undefined variable: hotel_info /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%%' [ RunTime:0.000144s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T16:51:29+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000605s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+NOTIC: [8] Undefined variable: hotel_info /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 28 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%%' [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T16:52:09+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001502s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%' [ RunTime:0.000152s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T16:52:12+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%' [ RunTime:0.000177s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T19:36:10+08:00 ] 0.0.0.0 /~miro/se/index.php/User/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000646s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000712s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010709s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000266s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000228s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000141s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001067s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000403s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2013-05-24T19:36:14+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000576s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+NOTIC: [8] Use of undefined constant hotel_name - assumed 'hotel_name' /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 26 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%' [ RunTime:0.000165s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T19:36:57+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000645s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%' [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T19:37:00+08:00 ] 0.0.0.0 /~miro/se/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%' [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: hotel_level /Users/miro/Sites/se/Lib/Action/UserAction.class.php 第 33 行.
+
+[ 2013-05-24T19:39:12+08:00 ] 0.0.0.0 /~miro/se/index.php/Goods/searchhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000593s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000209s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006765s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000236s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000223s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000138s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001037s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000389s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2013-05-24T19:39:15+08:00 ] 0.0.0.0 /~miro/se/index.php/Goods/showroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000569s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Users/miro/developer/ThinkPHP/Common/functions.php 第 566 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%%' [ RunTime:0.000137s ]
+NOTIC: [8] Undefined offset: 1 /Users/miro/Sites/se/Lib/Action/GoodsAction.class.php 第 37 行.
 

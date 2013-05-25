@@ -18,6 +18,27 @@ class UserAction extends Action{
     	$time = date("Y-m-d H:i:s" ,$timestamp ); 
     }
     public function main(){
-    	echo $_POST['name'];
+    	$name = $_POST['name'];
+    	$password = $_POST['password'];
+    	$sql = "select * from se_user where name = '".$name."' AND password = '".$password."'";
+    	$Model = new Model(); // 实例化一个model对象 没有对应任何数据表
+		$result = $Model->query($sql);
+		if($result)
+		{
+			session_start();
+			$_SESSION['name'] = $_POST['name'];
+			$_SESSION['status'] = $result[0]['status'];
+			//$message = "login successfully";
+			//$this->assign('message',$message);
+			$this->success('登陆成功', '/~miro/se/index.php/Goods/searchhotel');
+		}
+		//$this->display();
+		else
+		{
+			//$message = "user information error";
+			$this->error('登陆失败');
+		}
+			
+    	
     }
 }
