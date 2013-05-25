@@ -1,0 +1,22 @@
+<html>
+ <head>
+   <title>History</title>
+ </head>
+ <body>
+ 	<h1>Your Orders</h1>
+ 	<volist name="orders" id="vo">
+    	{$vo.id}--{$vo.uid}--{$vo.book_time}--{$vo.price}
+    	<form  action="__APP__/Bookpay/pay" method="post">
+            <button name="uid" value="{$vo.uid}"> Pay Order</button>
+        </form>
+        <form  action="__APP__/Comment/viewComments" method="post">
+            <button name="uid" value="{$vo.uid}"> View Comments</button>
+        </form>
+        <form  action="__APP__/Bookpay/cancel" method="post">
+            <button name="uid" value="{$vo.uid}"> Cancel Order</button>
+        </form>
+        </br>
+    </volist>
+
+ </body>
+</html>

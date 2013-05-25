@@ -3,9 +3,14 @@
    		<title>Search Hotel</title>
  	</head>
  	<body>
- 			{$class} + {$hotel_info}<br>
+ 			{$class}: {$hotel_info}<br/>
  		    <volist name="data" id="vo">
-    			{$vo.name}--{$vo.password}--{$vo.price}--{$vo.available_number}<br/>
+    			{$vo.price}--{$vo.available_number}
+    			<form  action="__APP__/Bookpay/book" method="post">
+                <!--<input type="submit" value="生成订单" name="uid"/>-->
+                <button name="uid" value="{$vo.uid}"> Generate Order</button>
+                </form>
+                </br>
     		</volist>
   	</body>
 </html>

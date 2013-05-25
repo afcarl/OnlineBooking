@@ -5,8 +5,8 @@
  <body>
  	<h1>Hotel Info </h1>
     <form method="post" action="__URL__/inserthotel">
-		<p>Hotel name：<INPUT type="text" name="hotel_name"></p>
-		<p>star_level：<INPUT type="text" name="star_level"></p>
+		<p>Hotel Name：<INPUT type="text" name="name"></p>
+		<p>Star Level：<INPUT type="text" name="star_level"></p>
 		<INPUT type="submit" value="提交">
 	</form>
  </body>

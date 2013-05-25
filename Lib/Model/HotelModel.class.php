@@ -1,6 +1,6 @@
 <?php
 
-class UserModel extends Model {
+class HotelModel extends Model {
     // 定义自动验证
     protected $_validate    =   array(
         array('hotel_name','require','name required'),

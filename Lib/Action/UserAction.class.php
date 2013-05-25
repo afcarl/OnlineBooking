@@ -26,11 +26,12 @@ class UserAction extends Action{
 		if($result)
 		{
 			session_start();
-			$_SESSION['name'] = $_POST['name'];
+			$_SESSION['user_name'] = $name;
+			$_SESSION['user_id'] = $result[0]['id'];
 			$_SESSION['status'] = $result[0]['status'];
 			//$message = "login successfully";
 			//$this->assign('message',$message);
-			$this->success('登陆成功', '/~miro/se/index.php/Goods/searchhotel');
+			$this->success('登陆成功', '__APP__/Goods/searchhotel');
 		}
 		//$this->display();
 		else
