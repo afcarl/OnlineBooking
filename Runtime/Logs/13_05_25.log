@@ -1,0 +1,572 @@
+[ 2013-05-25T10:51:42+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001892s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004421s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+ERR: 非法操作:index
+
+[ 2013-05-25T10:51:45+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000850s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+ERR: 非法操作:index
+
+[ 2013-05-25T10:54:07+08:00 ] 0.0.0.0 /OnlineBooking/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000579s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000671s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008775s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000508s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000525s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000435s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002230s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000780s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2013-05-25T10:56:20+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/addhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000429s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000669s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000724s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003633s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000190s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000211s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000138s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000883s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000274s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2013-05-25T10:56:35+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/inserthotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000475s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) /Library/WebServer/Documents/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2013-05-25T11:03:55+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/inserthotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000704s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [2] mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) /Library/WebServer/Documents/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2013-05-25T11:04:40+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/inserthotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000356s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `se_hotel` [ RunTime:0.001113s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000222s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000261s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.005060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005124s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000272s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000243s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000149s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001152s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000466s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2013-05-25T11:04:45+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/inserthotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000467s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `se_hotel` [ RunTime:0.002453s ]
+SQL: INSERT INTO `se_hotel` (`star_level`) VALUES (4) [ RunTime:0.001216s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000221s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000258s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003813s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000209s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000165s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000107s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000791s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000289s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2013-05-25T11:04:46+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/addhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000499s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000163s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000205s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003430s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000175s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000189s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000140s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000287s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2013-05-25T11:04:54+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/searchhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000402s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000167s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000202s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.004203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004250s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000186s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000217s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000136s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000282s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2013-05-25T11:04:58+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/showroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000441s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%' [ RunTime:0.000178s ]
+ERR: 1054:Unknown column 'hotel_name' in 'where clause'
+ [ SQL语句 ] : select * from se_hotel NATURAL JOIN se_room where hotel_name like '%qizhen%'
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000203s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.004081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004132s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000169s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000178s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000140s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000831s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000382s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2013-05-25T11:05:10+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/showroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000414s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%Qizhen%' [ RunTime:0.000181s ]
+ERR: 1054:Unknown column 'hotel_name' in 'where clause'
+ [ SQL语句 ] : select * from se_hotel NATURAL JOIN se_room where hotel_name like '%Qizhen%'
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000200s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000237s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004023s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000168s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000184s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000127s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000286s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2013-05-25T11:05:59+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/insertroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000408s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `se_room` [ RunTime:0.001097s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000201s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000239s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003829s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000208s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000155s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000108s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000261s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2013-05-25T11:06:16+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/insertroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `se_room` [ RunTime:0.001122s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000234s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.004129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004188s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000199s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000160s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000103s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000779s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000298s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2013-05-25T11:07:07+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/showroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000367s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: classname /Library/WebServer/Documents/OnlineBooking/Lib/Action/GoodsAction.class.php 第 30 行.
+NOTIC: [8] Undefined index: search /Library/WebServer/Documents/OnlineBooking/Lib/Action/GoodsAction.class.php 第 31 行.
+SQL: select * from se_hotel NATURAL JOIN se_room where  like '%%' [ RunTime:0.000126s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%%'' at line 1
+ [ SQL语句 ] : select * from se_hotel NATURAL JOIN se_room where  like '%%'
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000185s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.004713s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004760s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000154s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000166s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000097s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000732s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000312s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2013-05-25T11:07:36+08:00 ] 0.0.0.0 /OnlineBooking/index.php/Goods/inserthotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000577s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+SQL: SHOW COLUMNS FROM `se_hotel` [ RunTime:0.001005s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000202s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003941s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000171s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000151s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000096s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000256s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2013-05-25T11:07:43+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods/addhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000408s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000142s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000180s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003102s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000178s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000156s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000117s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000777s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000273s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2013-05-25T11:07:54+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods/addroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000404s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000204s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003537s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000187s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000174s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000137s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000305s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2013-05-25T11:08:30+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods/addhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000380s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000152s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000190s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003221s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000181s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000195s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000132s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000811s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000289s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2013-05-25T11:15:20+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods/searchhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000379s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000159s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000199s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003042s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000156s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000177s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000103s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000286s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2013-05-25T11:15:23+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods/showroom
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000565s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+SQL: select * from se_hotel NATURAL JOIN se_room where hotel_name like '%q%' [ RunTime:0.000135s ]
+ERR: 1054:Unknown column 'hotel_name' in 'where clause'
+ [ SQL语句 ] : select * from se_hotel NATURAL JOIN se_room where hotel_name like '%q%'
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000255s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000297s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.004105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004143s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000172s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000171s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000107s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000261s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2013-05-25T11:19:37+08:00 ] 127.0.0.1 /OnlineBooking/index.php/Goods/addhotel
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000360s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000145s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000183s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003335s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000334s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000178s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000119s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000280s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2013-05-25T11:50:26+08:00 ] 127.0.0.1 /onlineBooking/index.php/User
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000495s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000251s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000310s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.005159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005233s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000211s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000165s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000104s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000859s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000390s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2013-05-25T11:51:31+08:00 ] 127.0.0.1 /onlineBooking/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000795s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+
+[ 2013-05-25T11:54:37+08:00 ] 127.0.0.1 /onlineBooking/index.php/User
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000429s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000272s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000317s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004051s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000224s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000210s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000163s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001026s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000404s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2013-05-25T11:54:43+08:00 ] 127.0.0.1 /onlineBooking/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000398s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: select * from se_user where name = 'yj1991' AND password = 'yj' [ RunTime:0.000309s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000326s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.005122s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005206s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000285s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000264s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000170s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001261s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000535s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2013-05-25T11:55:00+08:00 ] 127.0.0.1 /onlineBooking/index.php/User/main
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000476s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+SQL: select * from se_user where name = 'ji' AND password = '0000' [ RunTime:0.000297s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /Library/WebServer/Documents/onlineBooking/Lib/Action/UserAction.class.php 第 28 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000166s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000206s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.003975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004025s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000156s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000159s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000099s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000732s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000315s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000350s ]
+
